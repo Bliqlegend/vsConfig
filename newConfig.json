@@ -35,7 +35,7 @@
   "editor.foldingStrategy": "indentation",
   "editor.fontFamily": "\"Comic Code\", \"JetBrains Mono\", \"SF Mono\", \"IBMPlexMono\", \"Fira Code\", \"Dank Mono\", monospace",
   "editor.fontLigatures": false,
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.fontWeight": 500,
   "editor.formatOnSave": true,
   "editor.gotoLocation.multipleDeclarations": "goto",
@@ -501,7 +501,7 @@
       "terminalCommandDecoration.successBackground": "#5DE4c7"
     }
   },
-  "workbench.colorTheme": "Tomorrow Night Blue",
+  "workbench.colorTheme": "Shades of Purple (Super Dark)",
   "workbench.commandPalette.preserveInput": true,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.decorations.badges": true,
@@ -530,5 +530,8 @@
   "yaml.schemas": {
     "file:///c%3A/Users/acer/.vscode/extensions/atlassian.atlascode-3.0.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
   },
-  "bracket-pair-colorizer-2.depreciation-notice": false
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "terminal.integrated.commandsToSkipShell": [
+    "editor.action.goToTypeDefinition"
+  ]
 }
