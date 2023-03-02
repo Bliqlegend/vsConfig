@@ -1,0 +1,148 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.pythonPath": "C:\\Users\\Tanush\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.languageServer": "Pylance",
+    "editor.fontFamily": "'Cascadia Code'",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "C_Cpp.updateChannel": "Insiders",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.ignoreWindowsGit27Warning": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "cmake.configureOnOpen": false,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "[Material Theme Ocean High Contrast]": {
+            "activityBarBadge.background": "#388E3C",
+            "activityBar.activeBorder": "#388E3C",
+            "list.activeSelectionForeground": "#388E3C",
+            "list.inactiveSelectionForeground": "#388E3C",
+            "list.highlightForeground": "#388E3C",
+            "scrollbarSlider.activeBackground": "#388E3C50",
+            "editorSuggestWidget.highlightForeground": "#388E3C",
+            "textLink.foreground": "#388E3C",
+            "progressBar.background": "#388E3C",
+            "pickerGroup.foreground": "#388E3C",
+            "tab.activeBorder": "#388E3C",
+            "notificationLink.foreground": "#388E3C",
+            "editorWidget.resizeBorder": "#388E3C",
+            "editorWidget.border": "#388E3C",
+            "settings.modifiedItemIndicator": "#388E3C",
+            "settings.headerForeground": "#388E3C",
+            "panelTitle.activeBorder": "#388E3C",
+            "breadcrumb.activeSelectionForeground": "#388E3C",
+            "menu.selectionForeground": "#388E3C",
+            "menubar.selectionForeground": "#388E3C",
+            "editor.findMatchBorder": "#388E3C",
+            "selection.background": "#388E3C40",
+            "statusBarItem.remoteBackground": "#388E3C"
+        },
+        "[Material Theme High Contrast]": {},
+        "[Material Theme Ocean]": {
+            "activityBarBadge.background": "#64FFDA",
+            "activityBar.activeBorder": "#64FFDA",
+            "list.activeSelectionForeground": "#64FFDA",
+            "list.inactiveSelectionForeground": "#64FFDA",
+            "list.highlightForeground": "#64FFDA",
+            "scrollbarSlider.activeBackground": "#64FFDA50",
+            "editorSuggestWidget.highlightForeground": "#64FFDA",
+            "textLink.foreground": "#64FFDA",
+            "progressBar.background": "#64FFDA",
+            "pickerGroup.foreground": "#64FFDA",
+            "tab.activeBorder": "#64FFDA",
+            "notificationLink.foreground": "#64FFDA",
+            "editorWidget.resizeBorder": "#64FFDA",
+            "editorWidget.border": "#64FFDA",
+            "settings.modifiedItemIndicator": "#64FFDA",
+            "settings.headerForeground": "#64FFDA",
+            "panelTitle.activeBorder": "#64FFDA",
+            "breadcrumb.activeSelectionForeground": "#64FFDA",
+            "menu.selectionForeground": "#64FFDA",
+            "menubar.selectionForeground": "#64FFDA",
+            "editor.findMatchBorder": "#64FFDA",
+            "selection.background": "#64FFDA40",
+            "statusBarItem.remoteBackground": "#64FFDA"
+        }
+    },
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "code-runner.clearPreviousOutput": true,
+    "git.ignoreMissingGitWarning": true,
+    "code-runner.runInTerminal": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "yaml.schemas": {
+        "file:///c%3A/Users/acer/.vscode/extensions/atlassian.atlascode-3.0.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "atlascode.bitbucket.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "atlascode.jira.lastCreateSiteAndProject": {
+        "siteId": "",
+        "projectKey": ""
+    },
+    "errorLens.light": {},
+    "diffEditor.ignoreTrimWhitespace": false,
+    "remote.SSH.remotePlatform": {
+        "143.110.181.132": "linux",
+        "65.2.41.85": "linux",
+        "157.245.97.250": "linux"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "tabnine.experimentalAutoImports": true,
+    "materialTheme.accent": "Bright Teal",
+    "editor.accessibilitySupport": "off",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "gitlens.defaultDateLocale": null,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.format.semicolons": "insert",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "workbench.colorTheme": "Night Owl",
+
+    "[javascript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    }
+}
