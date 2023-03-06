@@ -501,7 +501,7 @@
       "terminalCommandDecoration.successBackground": "#5DE4c7"
     }
   },
-  "workbench.colorTheme": "Shades of Purple (Super Dark)",
+  "workbench.colorTheme": "Night Owl",
   "workbench.commandPalette.preserveInput": true,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.decorations.badges": true,
@@ -533,5 +533,30 @@
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "terminal.integrated.commandsToSkipShell": [
     "editor.action.goToTypeDefinition"
-  ]
+  ],
+  // python support
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": ["--max-line-length=500"],
+  "python.formatting.autopep8Args": ["--aggressive"],
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "python.formatting.provider": "black",
+  "atlascode.jira.jqlList": [
+    {
+      "id": "5fe9fdd9-c465-4196-ad29-3ae7ffb5bd1f",
+      "enabled": true,
+      "name": "My wereon Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "4910299b-68f8-453e-9202-3e50d68c8b0c",
+      "monitor": true
+    }
+  ],
+  "atlascode.jira.lastCreateSiteAndProject": {
+    "siteId": "4910299b-68f8-453e-9202-3e50d68c8b0c",
+    "projectKey": "WER"
+  },
+  "atlascode.jira.explorer.fetchAllQueryResults": true,
+  "window.zoomLevel": -1
 }
